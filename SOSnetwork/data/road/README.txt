@@ -1,0 +1,1 @@
+During the training of SOS model, the folder storing infrared images is named "Inf" and the folder storing GroundTruth is named "GT". The corresponding infrared image and GT file name must be the same.
