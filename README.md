@@ -1,7 +1,7 @@
 # SOSMaskFuse: An Infrared and Visible Image Fusion Architecture Based on Salient Object Segmentation Mask
 
 G. Li, X. Qian and X. Qu, "SOSMaskFuse: An Infrared and Visible Image Fusion Architecture Based on Salient Object Segmentation Mask," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3268063.
-- [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10109138) 
+- [SOSMaskFuse: An Infrared and Visible Image Fusion Architecture Based on Salient Object Segmentation Mask](https://ieeexplore.ieee.org/abstract/document/10109138) 
 
 ## Platform
 Python 3.7  
