@@ -33,6 +33,7 @@ During the testing of SOSMaskFuse, the folder storing infrared images is named "
 
 If you have any question about this code, feel free to reach me(qianxuanhu@163.com) 
 
+### The method is briefly introduced in Chinese in the published blog. → [CSDN blog link](http://t.csdn.cn/Iw2Jg)
 
 ```
 @ARTICLE{10109138,
