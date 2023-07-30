@@ -33,7 +33,7 @@ During the testing of SOSMaskFuse, the folder storing infrared images is named "
 
 If you have any question about this code, feel free to reach me(qianxuanhu@163.com) 
 
-### The method is briefly introduced in Chinese in the published blog. → [CSDN blog link](http://t.csdn.cn/Iw2Jg)
+### The method is briefly introduced in Chinese in the published blog. → [CSDN blog link]([http://t.csdn.cn/Iw2Jg](https://blog.csdn.net/qianxuanhu/article/details/131486198?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169074006716800211540059%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169074006716800211540059&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-131486198-null-null.142^v91^insertT0,239^v12^control2&utm_term=sosmaskfuse&spm=1018.2226.3001.4187)https://blog.csdn.net/qianxuanhu/article/details/131486198?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169074006716800211540059%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169074006716800211540059&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-131486198-null-null.142^v91^insertT0,239^v12^control2&utm_term=sosmaskfuse&spm=1018.2226.3001.4187)
 
 ```
 @ARTICLE{10109138,
